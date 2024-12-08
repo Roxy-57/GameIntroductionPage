@@ -1,0 +1,56 @@
+#Player_character {
+    padding: 40px 20px;
+    background-color: #1C1C28;
+}
+
+.player {
+    display: flex;
+    justify-content: center;
+    gap: 24px; 
+    flex-wrap: wrap; 
+}
+
+.Character_Card {
+    background-color: whitesmoke; 
+    border: 1px solid #333; 
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); 
+    overflow: hidden;
+    width: 300px; 
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.Character_Card:hover {
+    transform: translateY(-10px); 
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.4); 
+}
+
+.character-img {
+    width: 100%;
+    height: px;
+    object-fit:contain; 
+}
+
+.character_Text {
+    padding: 15px;
+}
+
+.character_Name p {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.character_btn a {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: #67798F; 
+    color: #fff;
+    font-size: 1rem;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.character_btn a:hover {
+    background-color: #3A4856; 
+}

@@ -1,0 +1,10 @@
+#main_Character {
+    padding: 40px 20px;
+    background-color: #1C1C28; 
+}
+.main_npc {
+    display: flex;
+    justify-content: center;
+    gap: 24px; 
+    flex-wrap: wrap; 
+}

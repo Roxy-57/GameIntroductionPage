@@ -1,0 +1,48 @@
+@import url("reset.css");
+@import url("navbar.css");
+@import url("main_carousel.css");
+@import url("player_character.css");
+@import url("main_character.css");
+@import url("region_carousel.css");
+@import url("footer.css");
+.divider {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 40px 0;
+    text-align: center;
+    position: relative;
+}
+
+.divider::before,
+.divider::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    height: 1px;
+    background-color: white;
+    z-index: 0;
+}
+.divider:before {
+    left: 0;
+    width: 40%; 
+}
+
+.divider:after {
+    right: 0;
+    width: 40%; 
+}
+.divider h2 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 10px 0;
+    color: white;
+    position: relative;
+    z-index: 1;
+}
+.divider img {
+    width: 60px; 
+    height: 60px;
+    margin-bottom: 10px;
+}
