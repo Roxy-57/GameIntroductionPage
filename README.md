@@ -23,8 +23,9 @@
 - 부트스트랩을 사용하지않고 캐러셀을 구현 하였는데 캐러셀의 위치를 지정하는데 매우 어려웠습니다.
 - 웹 페이지의 반응형을 많이 넣지 않아 화면 크기에 따라 변화하는 것을 고려해야 할 것 같습니다.
 
+
 ## 프로젝트 이미지
 
-| ![맑음](https://github.com/user-attachments/assets/be5a11eb-931f-492a-b8f0-9e886afa981b) | ![흐림](https://github.com/user-attachments/assets/ae145efc-b82c-492f-ac32-927fe0e06c4f) |
+| ![맑음]([https://github.com/user-attachments/assets/be5a11eb-931f-492a-b8f0-9e886afa981b](https://github.com/user-attachments/assets/ac636de9-3083-45c8-8d28-31806cd5b30c)) | ![흐림]([https://github.com/user-attachments/assets/ae145efc-b82c-492f-ac32-927fe0e06c4f](https://github.com/user-attachments/assets/068fc1c3-ac15-4e38-8544-1f72aac8f78f)) |
 |------------------------------------------|------------------------------------------|
-| ![비](https://github.com/user-attachments/assets/7f37ec99-8f41-4b75-9f68-a359ab3ff8de)   | ![눈](https://github.com/user-attachments/assets/319f076b-0835-45eb-be15-57198a6708a5)   |
+| ![비]([https://github.com/user-attachments/assets/7f37ec99-8f41-4b75-9f68-a359ab3ff8de](https://github.com/user-attachments/assets/296c991a-6409-4ccf-b813-ada0ba914630))   | ![눈]([https://github.com/user-attachments/assets/319f076b-0835-45eb-be15-57198a6708a5](https://github.com/user-attachments/assets/13258a07-a1cc-4f72-b63f-317ceafaa215))   |
