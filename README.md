@@ -23,9 +23,14 @@
 - 부트스트랩을 사용하지않고 캐러셀을 구현 하였는데 캐러셀의 위치를 지정하는데 매우 어려웠습니다.
 - 웹 페이지의 반응형을 많이 넣지 않아 화면 크기에 따라 변화하는 것을 고려해야 할 것 같습니다.
 
+![메인](https://github.com/user-attachments/assets/f0dc48a1-e31a-4cfe-874b-83bdd25b4504)
+![주요인물](https://github.com/user-attachments/assets/a88348e5-6204-4ada-828a-351edf205f58)
+![플레이어](https://github.com/user-attachments/assets/f1a8f75d-2d65-444e-8375-6a64b12dad5c)
+![지역](https://github.com/user-attachments/assets/f2588662-76c2-498b-89da-f0129a18d319)
+
 
 ## 프로젝트 이미지
 
-| ![메인](image1_url) | ![흐림](image2_url) |
+| ![메인](https://github.com/user-attachments/assets/f0dc48a1-e31a-4cfe-874b-83bdd25b4504) | ![주요인물](https://github.com/user-attachments/assets/a88348e5-6204-4ada-828a-351edf205f58) |
 |----------------------|---------------------|
-| ![비](image3_url)   | ![눈](image4_url)   |
+| ![플레이어](https://github.com/user-attachments/assets/f1a8f75d-2d65-444e-8375-6a64b12dad5c)   | ![지역](https://github.com/user-attachments/assets/f2588662-76c2-498b-89da-f0129a18d319)   |
