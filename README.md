@@ -7,8 +7,8 @@
 조금이라도 참고하면 좋을 것 같아 제작하게 되었습니다.
 
 ## 소개
-- navibar 클릭시 해당 스크롤 이동 구현 및 사이트 이동 구현
-- 세계관 이미지 캐러셀 구현
+- 홈페이지 레이아웃 구현
+- JavaScript를 통한 메인 캐러셀과 지역 캐러셀 구현
 - 플레이어 캐릭터 및 주요 NPC 이미지 카드 구현
 
 작업 기간
@@ -19,13 +19,13 @@
  - ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-## 느낀점
-- 부트스트랩을 사용하지않고 캐러셀을 구현 하였는데 캐러셀의 위치를 지정하는데 매우 어려웠습니다.
-- 웹 페이지의 반응형을 많이 넣지 않아 화면 크기에 따라 변화하는 것을 고려해야 할 것 같습니다.
+## 문제 해결
+- 요소들이 원하는 위치에 배치되지 않는 문제를 해결하기 위해 CSS `flexbox`를 학습하고 적용하였습니다. `justify-content`, `align-items` 속성을 활용하여 정렬 문제를 성공적으로 해결했습니다.
+- 초기에는 DOM 조작과 이벤트 리스너 사용에 대한 이해가 부족하여 캐러셀 구현 과정에서 어려움을 겪었습니다. 여러 자료를 참고하며 `querySelector`, `addEventListener`와 같은 DOM API와 클래스 및 스타일 동적 변경 방법을 익혀 기능을 완성할 수 있었습니다.
 
-## 어려웠던 점
-- 레이아웃을 구상할때 여러 요소들이 제대로 정렬되지 않는 어려움 겪었습니다. 이 과정에서 flex의 사용법을 많이 익혔습니다.
-- JavaScript로 캐러셀을 구현 할때 충분한 DOM 조작과 이벤트 리스너 사용에 대한 이해가 부족하여 구현에 어려움을 겪었습니다.
+## 느낀 점
+- CSS `flexbox`를 사용해 문제를 해결했지만, 더 능숙한 활용을 위해 다양한 상황에서 추가로 연습할 필요성을 느꼈습니다.
+- JavaScript를 활용해 동적인 UI를 구현하면서 DOM 조작과 이벤트 핸들링의 기본 개념을 이해할 수 있었습니다. 이를 기반으로 기초를 더욱 탄탄히 다져야겠다는 필요성을 느꼈습니다.
 
 ## 프로젝트 이미지
 
