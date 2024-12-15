@@ -11,9 +11,6 @@
 - JavaScript를 사용하여 동적으로 이미지가 전환되는 메인 캐러셀과 지역 캐러셀 기능 구현.
 - 플레이어 캐릭터 및 주요 NPC 이미지 카드 구현
 
-작업 기간
-- 2024.10.18 ~10.25 (1주)
-개인 프로젝트
 
 ## 기술 스택 (Skill)
  - ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
